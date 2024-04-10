@@ -1,0 +1,26 @@
+bibentry(
+		 bibtype = 'Article',
+		 title = 'Quantifying sample completeness and comparing diversities among assemblages.',
+         author = c(person("Anne Chao"),
+                    person("Yasuhiro Kubota"),
+  		              person("David Zelený"),
+  		              person("Chun-Huo Chiu"),
+  		              person("Ching-Feng Li"),
+    	              person("Buntarou Kusumoto"),
+                    person("Moriaki Yasuhara"),
+                    person("Simon Thorn"),
+                    person("Chih-Lin Wei"),
+                    person("Mark J. Costello"),
+                    person("Robert K. Colwell")),
+		 journal = 'Ecological Research',
+		 year   = '2020',
+		 month = "3",
+		 volume = "35",
+		 issue = "2",
+     pages  = "292-314",
+     doi    = '10.1111/1440-1703.12102',
+     header  = "To cite iNEXT.4steps in publications use:",
+		 textVersion = paste('Chao, A., Y. Kubota, D. Zelený, C.-H. Chiu, C.-F. Li, B. Kusumoto, M. Yasuhara, S. Thorn, C.-L. Wei, M. J. Costello, and R. K. Colwell (2020). Quantifying sample completeness and comparing diversities among assemblages. Ecological Research, 35, 292-314.')
+)
+
+
